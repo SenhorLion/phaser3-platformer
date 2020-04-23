@@ -1,4 +1,18 @@
-# Game Resource: https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/
+# Platform game - Phaser3 + Parcel Template
+
+## TODO:
+
+1. Create a StarSpawner.
+1. Encapsulate player controls logic.
+1. Game over scene.
+1. Object pool for stars and bombs?.
+1. Player lives, x3? or Health bar?.
+1. Splash scene.
+1. Retry functionality.
+1. Sounds.
+1. More levels...
+
+**Game Resource:** https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/
 
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 

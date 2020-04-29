@@ -157,7 +157,11 @@ export default class GameScene extends Phaser.Scene {
       this.player.anims.play("turn");
     }
 
-    if (this.cursors.up.isDown && this.player.body.touching.down) {
+    // if (this.cursors.up.isDown && this.player.body.touching.down) {
+    //   this.player.setVelocityY(-330);
+    // }
+
+    if (this.cursors.space.isDown && this.player.body.touching.down) {
       this.player.setVelocityY(-330);
     }
   }

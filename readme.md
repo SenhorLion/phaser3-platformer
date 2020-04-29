@@ -10,6 +10,7 @@
 1. Splash scene.
 1. Retry functionality.
 1. Sounds.
+1. Timer.
 1. More levels...
 
 **Game Resource:** https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/
